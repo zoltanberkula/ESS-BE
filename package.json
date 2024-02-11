@@ -1,0 +1,48 @@
+{
+  "name": "ess",
+  "version": "1.0.0",
+  "description": "energy storage system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muszertechnika/ESS.git"
+  },
+  "author": "Zoltán Berkula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muszertechnika/ESS/issues"
+  },
+  "homepage": "https://github.com/muszertechnika/ESS#readme",
+  "dependencies": {
+    "@google-cloud/firestore": "^6.0.0",
+    "@google-cloud/iot": "^3.1.0",
+    "async": "^3.2.3",
+    "binary-buffer-parser": "^2.1.1",
+    "crc": "^4.1.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "firebase": "^9.9.4",
+    "firebase-admin": "^11.0.1",
+    "javascript-binary-converter": "^0.2.2",
+    "jsmodbus": "^4.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "modbus": "^1.1.1",
+    "modbus-serial": "^8.0.5",
+    "modbus-stream": "^0.46.0",
+    "modbuscrc": "^1.0.4",
+    "mqtt": "^4.3.4",
+    "node-fetch": "^3.2.10",
+    "onoff": "^6.0.3",
+    "openweather-apis": "^4.4.2",
+    "packet-buffer-parser": "^1.1.0",
+    "pm2": "^5.1.2",
+    "request": "^2.88.2",
+    "serial-io": "^1.2.0",
+    "serialport": "^9.2.8",
+    "zzz.skein": "^0.0.2"
+  }
+}

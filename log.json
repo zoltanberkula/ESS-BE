@@ -1,0 +1,62 @@
+{
+  "deviceInfo": {
+    "deviceName": "MTH_ESS",
+    "deviceId": 1,
+    "deviceType": "ENERGY_STORAGE_SYSTEM",
+    "location": "Erebor",
+    "company": "MTholding"
+  },
+  "acrelData": {
+    "DCVoltage": 0,
+    "DCCurrent": 0,
+    "InternalTemp": 33.4,
+    "Power": 0,
+    "DeviceName": "ACREL_DJSF1352-RN",
+    "DeviceType": "DC_ENERGY_METER",
+    "Wh1": 129.22,
+    "Wh2": 129.22
+  },
+  "acrelDualData": {
+    "DCVoltage": null,
+    "DCCurrent": null,
+    "InternalTemp": null,
+    "Power": null,
+    "DeviceName": "ACREL_DJSF1352_RN",
+    "DeviceType": "DC_ENERGY_METER"
+  },
+  "ornoData": {
+    "L1Voltage": 228.2,
+    "L2Voltage": 0,
+    "L3Voltage": 0,
+    "L1Current": 0.04,
+    "L2Current": 0,
+    "L3Current": 0,
+    "TotalActivePower": 0,
+    "L1ActivePower": 0,
+    "L2ActivePower": 0,
+    "L3ActivePower": 0,
+    "Frequency": 50.02,
+    "DeviceName": "ORNO_WE_516",
+    "DeviceType": "3P_AC_ENERGY_METER"
+  },
+  "batteryData": {
+    "TotalVoltage": null,
+    "TotalCurrent": null,
+    "SystemSOC": null,
+    "SOH": null,
+    "DeviceName": "GSO_GBP384300",
+    "DeviceType": "LiFePO4_BATTERY_PACK"
+  },
+  "contactorStates": {
+    "K1": false,
+    "K2": false,
+    "K3": false,
+    "K4": false
+  },
+  "time": {
+    "timestamp": 1666264996127,
+    "date": "2022. 10. 20. 13:23:16"
+  },
+  "timestamp": 1666264996129,
+  "logDate": "2022. 10. 20. 13:23:16"
+}

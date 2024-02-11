@@ -1,0 +1,9 @@
+node_modules
+ESS_FILES/DOC/ESS_1 Private Key.txt
+ESS_FILES/DOC/ESS_1 Public Key.txt
+ESS_FILES/DOC/html
+ESS_FILES/DOC/latex
+.env
+/ESS_FILES
+/keys
+/src/sandbox
