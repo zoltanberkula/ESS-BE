@@ -21,7 +21,7 @@
 
 ## System Design
 
-![image](ESS_BLOCK_DIAGRAM_0v2.png)
+![image](ESS_BLOCK_DIAGRAM_0v2.jpg)
 
 ## Tech
 
