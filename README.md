@@ -21,7 +21,7 @@
 
 ## System Design
 
-![image](C:\Users\zolta\Documents\GitHub\ESS-BE\ESS-BE\ESS_FILES\DOC\DIAGRAMS\ESS_BLOCK_DIAGRAM_0v2\ESS_BLOCK_DIAGRAM_0v2.png)
+![image](C:\Users\zolta\Documents\GitHub\ESS-BE\ESS-BE\ESS_BLOCK_DIAGRAM_0v2.png)
 
 ## Tech
 
