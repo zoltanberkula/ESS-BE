@@ -39,7 +39,7 @@
     "onoff": "^6.0.3",
     "openweather-apis": "^4.4.2",
     "packet-buffer-parser": "^1.1.0",
-    "pm2": "^5.1.2",
+    "pm2": "^5.3.1",
     "request": "^2.88.2",
     "serial-io": "^1.2.0",
     "serialport": "^9.2.8",
