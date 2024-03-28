@@ -23,7 +23,7 @@
     "binary-buffer-parser": "^2.1.1",
     "crc": "^4.1.0",
     "dotenv": "^16.0.1",
-    "express": "^4.18.1",
+    "express": "^4.19.2",
     "firebase": "^9.9.4",
     "firebase-admin": "^11.0.1",
     "javascript-binary-converter": "^0.2.2",
